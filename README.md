@@ -3,11 +3,11 @@
 ## Approach to common patterns
 
 - Regular review of proposed patterns
-- Multiple avenues in? Could be a sketch on a bit of paper for an initial idea, or a component that is actually already live in a service
+- Service design work to identify common components (with solutions architects)
 
 ## Contribution process
 
-Broadly propose that we follow a similar process to https://design-system.service.gov.uk/community/propose-a-component-or-pattern/
+We follow a similar process to https://design-system.service.gov.uk/community/propose-a-component-or-pattern/
 
 - Initial idea
 - Prototype
@@ -16,6 +16,7 @@ Broadly propose that we follow a similar process to https://design-system.servic
 - Create demos and documentation on the design system homepage
 - Schedule a post implementation review - how's it going 6 months later?
 
+Discussions about new contributions are typically held at design/frontend meetups or as separate meetings. The head of the design practice is accountable and responsible for the design system.
 
 ## Technical approach
 
